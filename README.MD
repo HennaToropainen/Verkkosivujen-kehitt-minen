@@ -1,1 +1,0 @@
-Pitäisi auttaa GitHub julkaisun kanssa
