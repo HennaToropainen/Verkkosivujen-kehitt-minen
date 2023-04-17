@@ -1,1 +1,1 @@
-Tämä on verkkosivujen kehittäminen WS06 työpajan kansio.
+Verkkosivujen kehittäminen WS06.
